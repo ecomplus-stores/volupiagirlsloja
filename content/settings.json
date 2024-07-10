@@ -1,5 +1,5 @@
 {
-  "domain": "ecomplus-storefront.netlify.app",
+  "domain": "volupiagirlsloja.netlify.app",
   "currency_symbol": "R$",
   "primary_color": "",
   "theme": {
@@ -9,10 +9,10 @@
   "icons_font": "_",
   "font_family": "_",
   "bg_color": "#ffffff",
-  "repository": "",
+  "repository": "ecomplus-stores/volupiagirlsloja",
   "logo": "/img/uploads/logo.png",
-  "name": "My Shop",
-  "short_name": "My Shop",
+  "name": "volupiagirlsloja",
+  "short_name": "volupiagirlsloja",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -20,7 +20,7 @@
   "country_code": "BR",
   "secondary_color": "",
   "icon": "/img/icon.png",
-  "store_id": 1052,
+  "store_id": 51540,
   "description": "My PWA Shop",
   "large_icon": "/img/large-icon.png"
 }
